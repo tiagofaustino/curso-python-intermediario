@@ -35,3 +35,7 @@ else:
     print('novato')
 
 print('experiente' if tempo_empresa >= 10 else 'novato') #experiência com operador ternario
+
+# RESULTADO:
+# novato
+# novato

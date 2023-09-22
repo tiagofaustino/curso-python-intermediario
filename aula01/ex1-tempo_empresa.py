@@ -28,3 +28,6 @@ leitura_ex1.close()
 #calcula o tempo de empresa
 tempo_empresa = valor_ano_atual - valor_ano_entrada
 print('Tempo de empresa:', tempo_empresa, 'ano(s)')
+
+# RESULTADO
+# Tempo de empresa: 2 ano(s)
